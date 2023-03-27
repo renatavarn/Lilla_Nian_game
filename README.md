@@ -7,6 +7,15 @@ Every letter in the nine grid can only be used once and the letter in the middle
 - words have to be between 4-9 letters long (there is only one 9-letter word)
 - to win you have to guess all words 
 
-Good luck! 
+## To play the game
+
+Download the `game` folder containing `lilla_nian_game.py` file and open the folder with PyCharm. 
+To run the game, type the following code in terminal: 
+```python lilla_nian_game.py```
+
+
+## Game demo 
+![](demo.gif)
+
 
 
