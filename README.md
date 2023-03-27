@@ -7,6 +7,9 @@ Every letter in the nine grid can only be used once and the letter in the middle
 - words have to be between 4-9 letters long (there is only one 9-letter word)
 - to win you have to guess all words 
 
+
+The game was built together with [Gustaf Bodén](https://www.linkedin.com/in/gustafboden/) during our time at Nod Coding bootcamp! 
+
 ## To play the game
 
 Download the `game` folder containing `lilla_nian_game.py` file and open the folder with PyCharm. 
@@ -18,6 +21,3 @@ python lilla_nian_game.py
 
 ## Game demo 
 ![](demo.gif)
-
-
-
