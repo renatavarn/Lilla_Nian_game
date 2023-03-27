@@ -1,4 +1,4 @@
-# Lilla_Nian_game
+# Lilla Nian game
 This is a word guessing game (Little Nine in English). All you have to do is quess as many words as you can from the grid of 9 letters. 
 Every letter in the nine grid can only be used once and the letter in the middle must be in all words. 
 
@@ -12,7 +12,6 @@ Every letter in the nine grid can only be used once and the letter in the middle
 Download the `game` folder containing `lilla_nian_game.py` file and open the folder with PyCharm. 
 To run the game, type the following code in terminal: 
 ```python lilla_nian_game.py```
-
 
 ## Game demo 
 ![](demo.gif)
