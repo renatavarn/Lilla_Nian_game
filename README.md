@@ -11,7 +11,10 @@ Every letter in the nine grid can only be used once and the letter in the middle
 
 Download the `game` folder containing `lilla_nian_game.py` file and open the folder with PyCharm. 
 To run the game, type the following code in terminal: 
-```python lilla_nian_game.py```
+
+```
+python lilla_nian_game.py
+```
 
 ## Game demo 
 ![](demo.gif)
